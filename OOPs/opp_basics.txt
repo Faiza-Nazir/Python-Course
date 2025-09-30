@@ -1,0 +1,16 @@
+                      5 Real-life world examples.
+1.	Mobile phone:
+                   Attributes:  model , brand , batteryLevel
+                   Methods:    call() , takePhoto() , sendMessage()
+2.	Laptop:
+              Attributes: ramSize , processor , storage
+              Methods:   poweron() , shutdown() , runProgram()
+3.	Bank Account:
+               Attributes:  account number , balance , holdername
+               Methods:    deposit() , withdraw() , transfer()
+4.	Book:
+              Attributes: title ,  pages , price
+              Methods:   open() , close() , read()
+5.	Hospital:
+               Attributes: name , location , staff
+               Methods: admitPatient() , dischargePatient() , provideMedicine()
